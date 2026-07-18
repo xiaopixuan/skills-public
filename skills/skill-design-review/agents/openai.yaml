@@ -1,0 +1,4 @@
+interface:
+  display_name: "skill 检验"
+  short_description: "用真实任务评测循环检查并改进一个 Codex 技能设计"
+  default_prompt: "Use $skill-design-review to evaluate and improve this skill with realistic test cases."
