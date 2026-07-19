@@ -1,6 +1,17 @@
 ---
 name: skill-design-review
 description: Evaluate whether a Codex skill should be kept, simplified, merged, rewritten, deleted, or improved through realistic task cases, baseline comparisons, necessity checks, rubrics, and targeted SKILL.md revisions. Use when the user asks to review a skill, 检验/评测/优化/删除/合并一个 skill, run a skill evaluation loop, compare performance with and without a skill, build a scorecard for a skill, or identify whether a skill's trigger, necessity, workflow, output format, and content quality are strong enough.
+license: MIT
+tags:
+  - codex-skill
+  - agent-skill
+  - skill-review
+  - skill-evaluation
+  - skill-assessment
+  - prompt-evaluation
+  - prompt-optimization
+  - rubric
+  - baseline-comparison
 ---
 
 # Skill Design Review
